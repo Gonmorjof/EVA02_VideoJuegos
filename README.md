@@ -1,4 +1,4 @@
 # EVA02_VideoJuegos
 
-Jorge Barrera Espinosa
+Jorge Barrera Espinoza
 Gonzalo Morgado Jofré
